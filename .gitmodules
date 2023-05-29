@@ -1,0 +1,4 @@
+[submodule "externals/alchemyrpg/5e-srd"]
+	path = externals/alchemyrpg/5e-srd
+	url = git@github.com:alchemyrpg/5e-srd.git
+	branch = main
