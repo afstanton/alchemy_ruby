@@ -4,7 +4,7 @@ require_relative "lib/alchemy_ruby/version"
 
 Gem::Specification.new do |spec|
   spec.name = "alchemy_ruby"
-  spec.version = HlRuby::VERSION
+  spec.version = AlchemyRuby::VERSION
   spec.authors = ["Aaron F Stanton"]
   spec.email = ["afstanton@gmail.com"]
 
